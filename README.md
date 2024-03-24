@@ -26,7 +26,7 @@ Have a look at the demo of the project (https://youtu.be/bV9-9MUkxHs)
 
    2. Clone the repository to your local machine using the following command:
       ```bash
-      git clone https://github.com/Gyanaranjan-934/Boldbazaar.git
+      
    3. Navigate to the project directory:
       ```bash
       cd your-repo
